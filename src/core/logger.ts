@@ -15,7 +15,7 @@ export const logger = pino({
 			}
 		: undefined,
 	base: {
-		app: 'buki-crawler',
+		app: 'n.mtvnk-crawler',
 	},
 });
 

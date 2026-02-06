@@ -1,10 +1,9 @@
 {
-	"name": "buki-crawler",
+	"name": "n.mtvnk-crawler",
 	"version": "2.0.0",
-	"description": "Crawler for https://buki.com.ua/ website to parse profiles of tutors",
+	"description": "Crawler for initially https://buki.com.ua/ website to parse profiles of tutors",
 	"license": "MIT",
 	"author": "Anton Burduzha",
-	"type": "commonjs",
 	"scripts": {
 		"build": "tsc && tsc-alias",
 		"start": "node dist/index.js",
