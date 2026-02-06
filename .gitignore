@@ -1,0 +1,11 @@
+# prod
+/dist
+
+# temp
+/output
+
+# dependencies
+/node_modules
+
+# agents
+CLAUDE.local.md
